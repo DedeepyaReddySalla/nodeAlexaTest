@@ -1,0 +1,5 @@
+{
+  "name": "exportsPractise",
+  "description": "A node js using express",
+  "keywords":["node", "express", "static"]
+}
